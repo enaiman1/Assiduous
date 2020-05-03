@@ -38,6 +38,6 @@ render() {
 </div>
     )
 } 
-}
+};
 
 export default Business;
