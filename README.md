@@ -3,7 +3,7 @@ This is a React App that allows user to get information, ratings, and reviews fr
 
 
 ## Demo
-check out a demo of this app [Here](https://jam-mate.vercel.app/ "Demo")
+check out a demo of this app [Here](https://assiduous.vercel.app/ "Demo")
 
 ## Hosting
 This site is hosted on [Vercel](https://vercel.com/ "Vercel.com")
