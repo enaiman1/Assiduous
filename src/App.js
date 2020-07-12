@@ -25,7 +25,7 @@ Yelp.searchYelp(term,location,sortBy).then((businesses) => {
 render(){
   return (
     <div className="App">
-      <h1>ravenous</h1>
+      <h1>Assiduous</h1>
       <SearchBar searchYelp={this.searchYelp}/>
       <BusinessList businesses={this.state.businesses} />
     </div>

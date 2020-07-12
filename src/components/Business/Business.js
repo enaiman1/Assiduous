@@ -10,10 +10,10 @@ class Business extends React.Component {
     const { business } = this.props
     return (
       <div className="Business">
+         <h2>{business.name}</h2>
         <div className="image-container">
           <img src={business.imageSrc} alt='' />
         </div>
-        <h2>{business.name}</h2>
         <div className="Business-information">
           <div className="Business-address">
             <p>{business.address}</p>

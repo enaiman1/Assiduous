@@ -1,5 +1,4 @@
-
-const apiKey ="" //yelp api key goes here
+const apiKey ="ya_B-GIf4Gv1v25lrpRKVStf0PpOjh3HKQq5jcSlfk3OU1jXWT5tm31yQ9sQ750H1ZqQtr5bagt3U7-E8Gn-s_wUIPMhmfNDWE3g3twXi6fRmBW8f4e0wvw-90q0XnYx"
 // this object is the api call to yelp
 const Yelp = {
 
